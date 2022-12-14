@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{a65bfa20-7f4e-499a-978a-f4e8e97dfccc}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>external-import\amitt\src\amitt.py</StartupFile>
+    <StartupFile>external-import\mandiant\src\mandiant.py</StartupFile>
     <SearchPath />
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
