@@ -1,9 +1,9 @@
 opencti:
-  url: 'http://localhost:8080'
-  token: 'ChangeMe'
+  url: 'http://192.168.55.120:30002/graphql'
+  token: '36e4b886-ebd7-45b0-93a2-840214c71a22'
 
 connector:
-  id: 'ChangeMe'
+  id: 'MISP_Feed_circl'
   type: 'EXTERNAL_IMPORT'
   name: 'MISP Feed (CIRCL)'
   scope: 'misp-feed-circl'
